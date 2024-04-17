@@ -4,7 +4,7 @@ export default function About() {
     <>
       <div
         id="about-section"
-        className="about-section-container flex gap-5 justify-between  py-20 bg-slate-900"
+        className="about-section-container flex gap-5 justify-between py-20 bg-slate-900"
         style={{ zIndex: 100, position: "relative" }}
       >
         <div className="text-start">
@@ -45,20 +45,23 @@ export default function About() {
             and actively participate in workshops to stay ahead of industry trends.
           </p>
         </div>
+        {/* <div className="justify-center"> */}
         <img
           src={profileImg}
           alt="abhishek-shah-img"
-          className=" text-white img-abhishek"
+          className="text-white img-abhishek"
           style={{
             margin: "0rem 5rem 1rem 1rem",
             borderRadius: "50%",
-            width: "90%",
+            // width: "90%",
             height: "20rem",
-            position: "relative",
+            maxWidth: "20rem",
+            // position: "relative",
             objectFit: "cover",
           }}
         />
       </div>
+      {/* </div > */}
     </>
   );
 }
