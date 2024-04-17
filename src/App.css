@@ -26,6 +26,7 @@
     0 10px 10px rgba(51, 65, 85, 0.22);
   transform: scaleY(1.05) scaleX(1.05);
 }
+
 .about:active,
 .home:active,
 .skill:active,
@@ -48,6 +49,7 @@
 .nav-links .active {
   color: #0ea5e9;
 }
+
 .view-credential-btn:hover {
   background-color: #0369a1 !important;
 }
@@ -59,22 +61,27 @@
 }
 
 @keyframes wave-animation {
+
   0%,
   50%,
   100% {
     transform: rotate(0deg);
   }
+
   20%,
   40% {
     transform: rotate(20deg);
   }
+
   60% {
     transform: rotate(0deg);
   }
+
   80% {
     transform: rotate(20deg);
   }
 }
+
 /*  */
 
 .timeline-container {
@@ -165,6 +172,7 @@
 .socials-icon {
   font-size: 20px;
 }
+
 .socials .fa-solid:hover,
 .socials .fa-brands:hover {
   color: #0ea5e9;
@@ -182,6 +190,7 @@
   0% {
     transform: translateX(-100%);
   }
+
   100% {
     transform: translateX(0);
   }
@@ -196,6 +205,7 @@
   0% {
     transform: translateX(0);
   }
+
   100% {
     transform: translateX(100%);
   }
@@ -211,21 +221,26 @@
     justify-content: flex-start !important;
     gap: 10rem !important;
   }
-  .img-saumya {
+
+  .img-abhishek {
     height: 25rem !important;
     width: 25rem !important;
   }
+
   .greetings {
     padding-top: 5rem !important;
   }
+
   .introduction-para {
     width: 80rem !important;
   }
+
   .publication-container,
   .skill-container {
     padding-left: 15rem !important;
     padding-right: 15rem !important;
   }
+
   .certification-list {
     padding-left: 4rem !important;
     padding-right: 4rem !important;
@@ -237,10 +252,12 @@
   .toggle-icon {
     display: none !important;
   }
+
   .nav-links,
   .my-logo {
     font-size: 1.1rem !important;
   }
+
   .skill-container {
     padding-left: 10rem !important;
     padding-right: 10rem !important;
@@ -251,7 +268,8 @@
   .about-section-container {
     flex-direction: column-reverse;
   }
-  .img-saumya {
+
+  .img-abhishek {
     margin: 0 auto !important;
     width: 22rem !important;
     height: 22rem !important;
@@ -262,12 +280,15 @@
   .name {
     font-size: 4.5rem !important;
   }
+
   .title {
     font-size: 1.5rem !important;
   }
+
   .socials {
     font-size: 1.8rem !important;
   }
+
   .container:before {
     left: 8px;
     width: 2px;
@@ -277,6 +298,7 @@
     width: 100%;
     margin-bottom: 30px;
   }
+
   .timeline-block-right {
     float: none;
   }
@@ -294,6 +316,7 @@
   .navbar-container {
     padding: 0 4rem 0 4rem !important;
   }
+
   .certifications-container {
     padding: 5rem 2rem !important;
   }
@@ -301,9 +324,11 @@
   .certification-list {
     gap: 1.5rem !important;
   }
+
   .timeline-container {
     margin: 4rem 5rem !important;
   }
+
   .timeline-container:before {
     left: 1.5% !important;
   }
@@ -313,6 +338,7 @@
   .nav-links {
     display: none !important;
   }
+
   .toggle-icon {
     display: block !important;
   }
@@ -322,6 +348,7 @@
   .name {
     font-size: 3.3rem !important;
   }
+
   .title {
     font-size: 1.2rem !important;
   }
@@ -329,6 +356,7 @@
   .socials {
     font-size: 1.4rem !important;
   }
+
   .nav-links,
   .my-logo,
   .toggle-icon {
@@ -348,12 +376,15 @@
   .greetings {
     margin: 1rem 3rem 1rem 3rem !important;
   }
+
   .marker {
     margin-top: 1rem;
   }
+
   .timeline-container {
     margin: 4rem !important;
   }
+
   .timeline-container:before {
     left: 2.5% !important;
   }
@@ -371,11 +402,13 @@
   .name {
     font-size: 2.8rem !important;
   }
+
   .title {
     font-size: 1.3rem !important;
     margin: 0 2rem !important;
     text-align: center;
   }
+
   .socials {
     font-size: 1.3rem !important;
   }
@@ -383,6 +416,7 @@
   .timeline-container {
     margin: 4rem 2rem !important;
   }
+
   .project-container,
   .card-container {
     min-width: 17rem !important;
