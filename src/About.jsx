@@ -45,23 +45,22 @@ export default function About() {
             and actively participate in workshops to stay ahead of industry trends.
           </p>
         </div>
-        {/* <div className="justify-center"> */}
         <img
           src={profileImg}
           alt="abhishek-shah-img"
           className="text-white img-abhishek"
           style={{
-            margin: "0rem 5rem 1rem 1rem",
+            // margin: "0rem 5rem 1rem 1rem",
             borderRadius: "50%",
             // width: "90%",
-            height: "20rem",
+            maxHeight: "20rem",
+            // height: "20rem",
             maxWidth: "20rem",
             // position: "relative",
             objectFit: "cover",
           }}
         />
       </div>
-      {/* </div > */}
     </>
   );
 }
