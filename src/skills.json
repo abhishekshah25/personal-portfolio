@@ -1,45 +1,5 @@
 [
   {
-    "name": "HTML",
-    "path": "./HTML.svg"
-  },
-  {
-    "name": "CSS",
-    "path": "./css.svg"
-  },
-  {
-    "name": "SASS",
-    "path": "./sass.svg"
-  },
-  {
-    "name": "Bootstrap",
-    "path": "./bootstrap-5-1.svg"
-  },
-  {
-    "name": "Tailwind",
-    "path": "./tailwind-css-2.svg"
-  },
-  {
-    "name": "JavaScript",
-    "path": "./javascript.svg"
-  },
-  {
-    "name": "React",
-    "path": "./react.svg"
-  },
-  {
-    "name": "Figma",
-    "path": "./figma.svg"
-  },
-  {
-    "name": "Node.js",
-    "path": "./nodejs-icon.svg"
-  },
-  {
-    "name": "Express JS",
-    "path": "./icons8-express-js.svg"
-  },
-  {
     "name": "Python",
     "path": "./python.svg"
   },
@@ -56,24 +16,24 @@
     "path": "./databricks.svg"
   },
   {
-    "name": "DBT",
-    "path": "./dbt-logo-500AB0BAA7-seeklogo.com.png"
+    "name": "Teradata",
+    "path": "./teradata.svg"
   },
   {
-    "name": "Git & Github",
-    "path": "./github.svg"
+    "name": "Airflow",
+    "path": "./Airflow.svg"
   },
   {
-    "name": "Java",
-    "path": "./java.svg"
-  },
-  {
-    "name": "Azure",
-    "path": "./azure.svg"
+    "name": "Kafka",
+    "path": "./kafka.svg"
   },
   {
     "name": "AWS",
     "path": "./aws-logo.png"
+  },
+  {
+    "name": "Azure",
+    "path": "./azure.svg"
   },
   {
     "name": "Docker",
@@ -84,15 +44,31 @@
     "path": "./kubernetes.svg"
   },
   {
+    "name": "Git & Github",
+    "path": "./github.svg"
+  },
+  {
+    "name": "Linux",
+    "path": "./linux.svg"
+  },
+  {
     "name": "Jupyter Notebook",
     "path": "./jupyter.svg"
   },
   {
-    "name": "Postman",
-    "path": "./postman.svg"
+    "name": "JavaScript",
+    "path": "./javascript.svg"
   },
   {
-    "name": "VS Code",
-    "path": "./visual-studio-code.svg"
+    "name": "React",
+    "path": "./react.svg"
+  },
+  {
+    "name": "Node.js",
+    "path": "./nodejs-icon.svg"
+  },
+  {
+    "name": "Material UI",
+    "path": "./material-ui.svg"
   }
 ]
