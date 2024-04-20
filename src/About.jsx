@@ -4,19 +4,19 @@ export default function About() {
     <>
       <div
         id="about-section"
-        className="about-section-container flex items-start justify-start py-20 bg-slate-900"
+        className="about-section-container flex gap-5 justify-between py-20 bg-slate-900"
         style={{ zIndex: 100, position: "relative" }}
       >
-        <div className="text-start flex-grow">
+        <div className="text-start">
           <p
             className="greetings text-white font-bold text-3xl"
-            style={{ margin: "1rem 5rem", paddingTop: "5rem" }}
+            style={{ margin: "1rem 5rem" }}
           >
             Hi, I'm Abhishek Shah <span className="wave">👋🏻</span>
           </p>
           <p
             className="introduction-para text-white"
-            style={{ margin: "1rem 2rem 1rem 5rem", width: "80rem" }}
+            style={{ margin: "1rem 2rem 1rem 5rem" }}
           >
             Based in New Delhi, I'm a results-oriented
             <span className="text-sky-500"> Data Engineer</span> holding a
@@ -45,18 +45,19 @@ export default function About() {
             and actively participate in workshops to stay ahead of industry trends.
           </p>
         </div>
-        {/* <img
+        <img
           src={profileImg}
           alt="abhishek-shah-img"
           className="text-white img-abhishek"
           style={{
+            margin: "0rem 5rem 1rem 1rem",
             borderRadius: "50%",
-            width: "25 rem",
-            height: "25rem",
-            maxWidth: "100%",
+            width: "90%",
+            height: "20rem",
+            position: "relative",
             objectFit: "cover",
           }}
-        /> */}
+        />
       </div>
     </>
   );

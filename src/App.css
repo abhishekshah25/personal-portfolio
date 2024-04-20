@@ -217,16 +217,14 @@
   }
 
   .about-section-container {
-    padding: 7rem 6rem !important;
+    padding: 7rem 10rem !important;
     justify-content: flex-start !important;
-    gap: 6rem !important;
+    gap: 10rem !important;
   }
 
   .img-abhishek {
     height: 25rem !important;
     width: 25rem !important;
-    max-width: 100%;
-    /* height: auto; */
   }
 
   .greetings {
@@ -369,7 +367,7 @@
     padding: 1rem 3rem !important;
   }
 
-  .img-saumya {
+  .img-abhishek {
     width: 16rem !important;
     height: 16rem !important;
   }
