@@ -217,9 +217,9 @@
   }
 
   .about-section-container {
-    padding: 7rem 10rem !important;
+    padding: 7rem 6rem !important;
     justify-content: flex-start !important;
-    gap: 10rem !important;
+    gap: 6rem !important;
   }
 
   .img-abhishek {
