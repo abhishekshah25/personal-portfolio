@@ -28,6 +28,10 @@
     "path": "./kafka.svg"
   },
   {
+    "name": "DBT",
+    "path": "./dbt-logo.png"
+  },
+  {
     "name": "AWS",
     "path": "./aws-logo.png"
   },
