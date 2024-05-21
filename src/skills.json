@@ -1,78 +1,50 @@
 [
   {
-    "name": "Python",
-    "path": "./python.svg"
+    "name": "Java",
+    "path": "./java.svg"
   },
   {
-    "name": "Pyspark",
+    "name": "Spring Boot",
+    "path": "./SpringBoot.svg"
+  },
+  {
+    "name": "Hibernate",
     "path": "./spark.svg"
   },
   {
-    "name": "SQL",
+    "name": "MySQL",
     "path": "./sql.svg"
   },
   {
-    "name": "Databricks",
-    "path": "./databricks.svg"
+    "name": "Microservices",
+    "path": "./microservice.png"
   },
   {
     "name": "Teradata",
     "path": "./teradata.svg"
   },
   {
-    "name": "Airflow",
-    "path": "./Airflow.svg"
-  },
-  {
     "name": "Kafka",
     "path": "./kafka.svg"
   },
   {
-    "name": "DBT",
-    "path": "./dbt-logo.png"
+    "name": "Postman",
+    "path": "./postman.svg"
   },
   {
-    "name": "AWS",
-    "path": "./aws-logo.png"
+    "name": "J2EE",
+    "path": "./J2EE.svg"
   },
   {
     "name": "Azure",
     "path": "./azure.svg"
   },
   {
-    "name": "Docker",
-    "path": "./docker.svg"
-  },
-  {
-    "name": "Kubernetes",
-    "path": "./kubernetes.svg"
-  },
-  {
     "name": "Git & Github",
     "path": "./github.svg"
   },
   {
-    "name": "Linux",
-    "path": "./linux.svg"
-  },
-  {
-    "name": "Jupyter Notebook",
-    "path": "./jupyter.svg"
-  },
-  {
-    "name": "JavaScript",
-    "path": "./javascript.svg"
-  },
-  {
     "name": "React",
     "path": "./react.svg"
-  },
-  {
-    "name": "Node.js",
-    "path": "./nodejs-icon.svg"
-  },
-  {
-    "name": "Material UI",
-    "path": "./material-ui.svg"
   }
 ]

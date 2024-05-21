@@ -48,7 +48,7 @@ export default function Navbar() {
           zIndex: "10000",
         }}
       >
-        <div className="my-logo font-medium text-white">AS</div>
+        <div className="my-logo font-medium text-white">RP</div>
         <div className="toggle-icon text-white" onClick={handleToggleClick}>
           {mobileNavOpen ? (
             <i className="fa-solid fa-xmark"></i> // Cross icon for closing
@@ -73,9 +73,9 @@ export default function Navbar() {
           <a href="#projects-container" className="project">
             Projects
           </a>
-          <a href="#publications-container" className="publication">
+          {/* <a href="#publications-container" className="publication">
             Publications
-          </a>
+          </a> */}
 
           <a href="#certifications-container" className="certification">
             Certifications

@@ -1,23 +1,23 @@
 [
   {
-    "Name": "AWS Certified Data Analytics Specialty",
-    "Company": "Amazon Web Services (AWS)",
-    "IssueDate": "August 2023",
-    "Link": "https://credly.com/badges/b10b6a56-7d41-4ca5-879d-947203e43f38/",
-    "ImgSrc": "./aws-logo.png"
+    "Name": "Microsoft Certified: Azure Fundamentals",
+    "Company": "Microsoft",
+    "IssueDate": "August 2022",
+    "Link": "",
+    "ImgSrc": "./azure.svg"
   },
   {
-    "Name": "AWS Certified Machine Learning Specialty",
-    "Company": "Amazon Web Services (AWS)",
-    "IssueDate": "September 2023",
-    "Link": "https://credly.com/badges/1aeb16fb-bf4c-421d-afda-99e3a70a045c/",
-    "ImgSrc": "./aws-logo.png"
+    "Name": "Microsoft Certified: Azure Data Fundamentals",
+    "Company": "Microsoft",
+    "IssueDate": "September 2022",
+    "Link": "",
+    "ImgSrc": "./azure.svg"
   },
   {
-    "Name": "AWS Certified Cloud Practitioner",
-    "Company": "Amazon Web Services (AWS)",
-    "IssueDate": "January 2022",
-    "Link": "https://credly.com/badges/b10b6a56-7d41-4ca5-879d-947203e43f38/",
-    "ImgSrc": "./aws-logo.png"
+    "Name": "Microsoft Certified: Azure Administrator Associate",
+    "Company": "Microsoft",
+    "IssueDate": "January 2023",
+    "Link": "",
+    "ImgSrc": "./azure.svg"
   }
 ]

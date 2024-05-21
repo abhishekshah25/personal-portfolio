@@ -1,4 +1,4 @@
-import profileImg from "./assets/1000027331-01.jpg";
+import profileImg from "./assets/Rajat.jpg";
 export default function About() {
   return (
     <>
@@ -12,20 +12,19 @@ export default function About() {
             className="greetings text-white font-bold text-3xl"
             style={{ margin: "1rem 5rem" }}
           >
-            Hi, I'm Abhishek Shah <span className="wave">👋🏻</span>
+            Hi, I'm Rajat Pandey <span className="wave">👋🏻</span>
           </p>
           <p
             className="introduction-para text-white"
             style={{ margin: "1rem 2rem 1rem 5rem" }}
           >
-            Based in New Delhi, I'm a results-oriented
-            <span className="text-sky-500"> Data Engineer</span> holding a
+            Based in New Delhi, I'm a dedicated
+            <span className="text-sky-500"> Java Developer</span> holding a
             <span className="text-sky-500">
               {" "}
-              B.Tech degree in Electrical & Electronics Engineering.
+              B.Tech degree in Electrical Engineering.
             </span>{" "}
-            My professional journey revolves around transforming raw data into
-            impactful insights, and I'm particularly passionate about building robust data solutions. I bring a wealth of experience and expertise in crafting data pipelines & architecting scalable systems.
+            My professional journey revolves with a passion for crafting efficient, scalable, and maintable software solutions. With over years of experience, I thrive in collabrative environments and always eager to explore new technologies and enhance my craft.
           </p>
           <p
             className="text-white introduction-para"
@@ -33,11 +32,10 @@ export default function About() {
           >
             Proficient in{" "}
             <span className="text-sky-500">
-              Python, SQL, Spark, Amazon Web Services(AWS) and React.
+              Java, SQL, Spring Boot, Hibernate, J2EE, Microservices and Kafka.{" "}
             </span>
-            Beyond coding, I view data as an infinite canvas for innovation, and
-            my future is a thrilling horizon of AI possibilities. Committed to
-            continuous improvement,
+            Beyond coding, I view web application development as an endless canvas for innovation, and
+            I aspire to align with evolving technology trends.
             <span className="text-sky-500">
               {" "}
               I hold certifications in emerging technologies{" "}
@@ -47,8 +45,8 @@ export default function About() {
         </div>
         <img
           src={profileImg}
-          alt="abhishek-shah-img"
-          className="text-white img-abhishek"
+          alt="rajat-img"
+          className="text-white img-rajat"
           style={{
             margin: "0rem 5rem 1rem 1rem",
             borderRadius: "50%",
