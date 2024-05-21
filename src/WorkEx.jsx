@@ -14,20 +14,13 @@ export default function WorkEx() {
             <div className="timeline-block timeline-block-right">
               <div className="marker"></div>
               <div className="timeline-content">
-                <h3 className="text-sky-500">Java Developer</h3>
+                <h3 className="text-sky-500">Senior Data Engineer</h3>
                 <span className="text-white">LTIMindtree, New Delhi</span>
                 <p className="text-white mb-3">
-                  <em>July 2023 - Present</em>
+                  <em>June 2022 - Present</em>
                 </p>
                 <p className="text-gray-400 text-justify">
-                  Led the development and deployment of a transformative project insight lens for the Income Tax Department.
-                  This innovative tool meticulously filters and maps taxpayer data, utilizing state-of-the-art algorithms to provide
-                  precise insights. Its implementation has significantly enhanced the department’s ability to detect and address tax
-                  evasion, leading to more effective tax compliance measures.
-                  Revolutionizing data analysis capabilities. Designed to meticulously filter and map taxpayer data, this advanced
-                  tool utilizes state-of-the-art algorithms to provide precise insights.
-                  Reduced the 70 percent manual time to detect to get the filtration done on tax payee data, which got appreciated by Income Tax Department of India.
-                  A project implementation worked on tools like Java, Spring Boot, Hibernate, ReactJs, Microservices architecture, MySQL, Postgres, Teradata, J2EE.
+                  Develop, optimize and automate ETL processes within the E-Verification domain to transform raw taxpayer data into a structured format, improving data quality and accessibility which increases the scalability of data pipelines, reducing manual intervention and minimizing potential errors. Conducted Taxpayer Segmentation by aggregating and processing diverse sources of income tax data from multiple channels using Teradata. This Segmentation Procedure also required collaboration with data experts to define segmentation criteria, enhancing tax compliance efforts and revenue collection. Tech Stack: Python, SQL, Teradata, PySpark, Docker and AWS.
                 </p>
               </div>
             </div>
@@ -35,25 +28,13 @@ export default function WorkEx() {
             <div className="timeline-block timeline-block-left">
               <div className="marker"></div>
               <div className="timeline-content">
-                <h3 className="text-sky-500">System Engineer</h3>
-                <span className="text-white">Tata Consultancy Services, Bengaluru</span>
+                <h3 className="text-sky-500">Data Engineer Intern</h3>
+                <span className="text-white">Highradius Corporation, Hyderabad</span>
                 <p className="text-white mb-3">
-                  <em>April 2021 - May 2023</em>
+                  <em>August 2021 - March 2022</em>
                 </p>
                 <p className="text-justify text-gray-400">
-                  American Labor Union Project, which deals up with the integration of Spring MVC,   Spring Boot, Hibernate and
-                  Java tools to build up the complete modulation and integral operational running of labor management.
-                  Built and maintained the database schema, optimizing data storage and retrieval. Implemented robust authenti-
-                  cation and authorization mechanisms to ensure data security
-                  Worked as backend developer on various modules consisting of monolithic and microservices architecture where in
-                  created backend flow with all the business logic of rules and guidelines.
-                  Implemented role-based access control (RBAC) to define and manage user permissions and restrictions based on
-                  job roles and responsibilities using the concept of Spring Security.
-                  Worked on Java Collections API for handling the data objects between business layers and front end.Developed
-                  over 100+ modules including master modules. Performed client side server-side validations.
-                  Deployed application on APACHE tomcat server. Resolved many errors and critical bugs in the products to
-                  improve performance and maintain seamless experience of the application.
-                  With integration with testing team, resolved couple of p0 bugs and always adhered the customer SLA which saved huge amount of development time
+                  Revamped SQL queries to utilize optimized indexing, reducing query time from over 3 minutes to seconds thereby enabling parallel query execution, resulting in 2x improvement in query performance. Optimized the stored procedures, functions and ad-hoc SQL queries pertaining to EIPP Product to resolve transaction conflicts resulting in 25% increase in performance.
                 </p>
               </div>
             </div>

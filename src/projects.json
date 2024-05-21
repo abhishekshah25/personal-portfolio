@@ -1,16 +1,30 @@
 [
   {
-    "Name": "Login/Registration Module of Labour Union Project",
-    "Desc": "The labor union project develops a secure login/registration system using Java, Spring Boot, Hibernate, SQL, Kafka, Microservices, and J2EE. It features user interfaces for registration and login, backed by microservices handling authentication, user management, notifications, and audit logging. User data is stored securely in SQL databases using Hibernate. Kafka manages real-time messaging for notifications and logs. Security measures include HTTPS, JWT tokens, role-based access control, and data encryption. The system is containerized with Docker and orchestrated with Kubernetes for scalability and reliability, ensuring efficient and secure user management.",
-    "GithubLink": "https://github.com/rajatpandey186",
+    "Name": "Realtime Voting Election System",
+    "Desc": "Innovated a Realtime Voting Election System Engine leveraging Python, Streamlit, Kafka, Docker, Spark and Postgres. Utilized Docker for creating and managing the container consisting of Postgres database, Spark nodes and Kafka broker whereas Streamlit was used for the user friendly interface.Managed to achieve exceptional performance, processing up to 10,000 votes at one instance with limited compute power.",
+    "GithubLink": "https://github.com/abhishekshah25/vote-stream",
     "Demo": "",
-    "ImgSrc": "./login.svg"
+    "ImgSrc": "./voting.jpg"
   },
   {
-    "Name": "Blog Application",
-    "Desc": "The blog application project leverages Java, Spring Boot, Hibernate, SQL, Kafka, Microservices, and J2EE to create a robust platform for managing blog posts. It includes user interfaces for creating, editing, and viewing posts, supported by microservices for content management, user authentication, notifications, and audit logging. Hibernate manages data persistence in SQL databases. Kafka handles real-time notifications and data streaming. Security measures encompass HTTPS, JWT tokens, and role-based access control. The application is containerized with Docker and orchestrated using Kubernetes, ensuring scalability, reliability, and efficient blog management.",
-    "GithubLink": "https://github.com/rajatpandey186",
+    "Name": "Realtime Smart City Data Pipeline",
+    "Desc": "Engineered a Realtime Smart City Data Pipeline processing over 200+ diverse data streams from sensors and IoT devices across the city. Integrated Kafka for stream processing, Spark for realtime analysis as well as AWS Services such as Glue for ETL, Redshift for data warehouse and Docker for deployment. Attained an impressive processing speed of upto 2,000 data points per minute when used with dummy data of sensors and IoT devices.",
+    "GithubLink": "https://github.com/abhishekshah25/smart-city",
     "Demo": "",
-    "ImgSrc": "./blog.svg"
+    "ImgSrc": "./smart-city.jpg"
+  },
+  {
+    "Name": "Medallion architecture based Data Pipeline",
+    "Desc": "Crafted a Medallion Architecture project revolutionizing data operations with seamless integration of DBT on Azure Databricks. Orchestrated sophisticated data modeling and transformation pipelines with DBT, ensuring data consistency and reliability. Leveraged Azure Data Factory to create data pipelines for scaling data processing and analytics, accelerating insights delivery.",
+    "GithubLink": "https://github.com/abhishekshah25/3-layer-Medallion-Data-Pipeline",
+    "Demo": "",
+    "ImgSrc": "./Medallion.png"
+  },
+  {
+    "Name": "BuzzIn",
+    "Desc": " A social media app where users can securely sign up, log in, and log out of their accounts. Create, interact with, and share posts while exploring user profiles to discover new connections. Easily search for users, posts, or topics, and stay updated with real-time notifications for new posts, likes, comments, and follows through WebSocket connections.",
+    "GithubLink": "https://github.com/abhishekshah25/BuzzIn",
+    "Demo": "https://buzz-in.vercel.app/",
+    "ImgSrc": "./BuzzIn.png"
   }
 ]
