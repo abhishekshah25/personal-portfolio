@@ -34,7 +34,7 @@ export default function WorkEx() {
                   <em>August 2021 - March 2022</em>
                 </p>
                 <p className="text-justify text-gray-400">
-                  Revamped SQL queries to utilize optimized indexing, reducing query time from over 3 minutes to seconds thereby enabling parallel query execution, resulting in 2x improvement in query performance. Optimized the stored procedures, functions and ad-hoc SQL queries pertaining to EIPP Product to resolve transaction conflicts resulting in 25% increase in performance.
+                  Revamped SQL queries to utilize optimized indexing, reducing query time from over 3 minutes to seconds thereby enabling parallel query execution, resulting in 2x improvement in query performance. Optimized the stored procedures, functions and ad-hoc SQL queries pertaining to EIPP Product to resolve transaction conflicts resulting in a considerable increase in performance.
                 </p>
               </div>
             </div>
