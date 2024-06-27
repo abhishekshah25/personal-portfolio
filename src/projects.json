@@ -11,7 +11,7 @@
     "Desc": "Designed a Redfin data analytics pipeline using six different tools and platforms. Extracted real estate data from the Redfin API. Performed ETL processes using Apache Airflow on EC2, leveraging EMR for data processing tasks. Loaded the transformed data into Snowflake via Snowpipe for storage and analysis. Utilized Power BI for visualizing the data, providing insightful market trends. This scalable pipeline efficiently handles over 200,000 records monthly, ensuring comprehensive data analysis and reporting.",
     "GithubLink": "https://github.com/abhishekshah25/redfin-data-pipeline",
     "Demo": "https://github.com/abhishekshah25/redfin-data-pipeline/blob/main/README.md",
-    "ImgSrc": "./RedFin.jpg"
+    "ImgSrc": "./RedFin.png"
   },
   {
     "Name": "Medallion architecture based Data Pipeline",
