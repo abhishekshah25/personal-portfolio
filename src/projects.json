@@ -3,14 +3,21 @@
     "Name": "Zillow Data Ingestion & Analytics Pipeline",
     "Desc": "Implemented a Zillow data analytics pipeline using various AWS services. Extracted real estate data from the Zillow API. Performed ETL processes using Apache Airflow on EC2, leveraging AWS Lambda for data transformation tasks. Loaded the transformed data into Amazon Redshift for storage and analysis. Utilized Amazon QuickSight for visualizing the data, providing insightful real estate market trends. This scalable pipeline processes over 50,000 records monthly, ensuring efficient data handling and insightful reporting.",
     "GithubLink": "https://github.com/abhishekshah25/zillow-data-pipeline",
-    "Demo": "",
+    "Demo": "https://github.com/abhishekshah25/zillow-data-pipeline/blob/main/README.md",
     "ImgSrc": "./zillow.jpg"
+  },
+  {
+    "Name": "RedFin Data Analytics Pipeline",
+    "Desc": "Designed a Redfin data analytics pipeline using six different tools and platforms. Extracted real estate data from the Redfin API. Performed ETL processes using Apache Airflow on EC2, leveraging EMR for data processing tasks. Loaded the transformed data into Snowflake via Snowpipe for storage and analysis. Utilized Power BI for visualizing the data, providing insightful market trends. This scalable pipeline efficiently handles over 200,000 records monthly, ensuring comprehensive data analysis and reporting.",
+    "GithubLink": "https://github.com/abhishekshah25/redfin-data-pipeline",
+    "Demo": "https://github.com/abhishekshah25/redfin-data-pipeline/blob/main/README.md",
+    "ImgSrc": "./RedFin.jpg"
   },
   {
     "Name": "Medallion architecture based Data Pipeline",
     "Desc": "Crafted a Medallion Architecture project revolutionizing data operations with seamless integration of DBT on Azure Databricks. Orchestrated sophisticated data modeling and transformation pipelines with DBT, ensuring data consistency and reliability. Leveraged Azure Data Factory to create data pipelines for scaling data processing and analytics, accelerating insights delivery.",
     "GithubLink": "https://github.com/abhishekshah25/3-layer-Medallion-Data-Pipeline",
-    "Demo": "",
+    "Demo": "https://github.com/abhishekshah25/3-layer-Medallion-Data-Pipeline/blob/main/README.md",
     "ImgSrc": "./Medallion.png"
   },
   {
