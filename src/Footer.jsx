@@ -38,7 +38,7 @@ export default function Footer() {
         </ul>
         <hr className="horizontal-line"></hr>
         <p className="copyright text-gray-400 text-center text-xs mt-4 mb-2">
-          Copyright &copy;2024 Abhishek Shah
+          Copyright &copy; 2024 Abhishek Shah
         </p>
       </div>
     </div>
