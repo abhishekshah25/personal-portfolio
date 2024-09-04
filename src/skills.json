@@ -24,10 +24,6 @@
     "path": "./Airflow.svg"
   },
   {
-    "name": "Kafka",
-    "path": "./kafka.svg"
-  },
-  {
     "name": "DBT",
     "path": "./dbt-logo.png"
   },
